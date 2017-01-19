@@ -1,0 +1,53 @@
+Source,/Users/locutus/Dropbox/Electronics/Electronics Project/Tic_Tac-Toe Analogue/Board 1 - Kicad/Tic_Tac-Toe Analogue.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,Friday, December 30, 2016 'PMt' 09:37:27 PM
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+D2,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D5,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D12,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D3,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D15,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D13,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D1,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D4,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D11,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D7,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D14,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D17,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D8,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D20,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D18,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D6,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D9,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D16,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+SW2,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW1,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW3,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW4,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW5,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW6,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW7,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW8,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+SW9,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+D10,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+D19,LED,Tic_Tac-Toe Analogue-rescue,LED-RESCUE-Tic_Tac-Toe_Analogue
+SW11,SWITCH_INV,Tic_Tac-Toe Analogue-cache,SWITCH_INV
+RR2,200R,Tic_Tac-Toe Analogue-cache,RR8
+RR1,10k,Tic_Tac-Toe Analogue-cache,RR8
+SW10,SW_PUSH_4,Tic_Tac-Toe Analogue-cache,SW_PUSH_4
+R1,10k,device,R
+R4,200R,device,R
+R5,200R,device,R
+P2,CONN_02X10,conn,CONN_02X10
+P1,CONN_01X12,conn,CONN_01X12
+CON1,BARREL_JACK,conn,BARREL_JACK
+RR3,200R,Tic_Tac-Toe Analogue-cache,RR8
+R2,10k,device,R
+R3,200R,device,R
+R6,200R,device,R
